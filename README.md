@@ -27,6 +27,6 @@ Open terminal on MacOS or command prompt on words and run the .py file as follow
 ## Conclusion
 After all the analysis, the following is the results that have been obtained-
 
-1) the top 500 words that have occured frequently in all the reviews in the dataset
-2) 10 clusters of reviews
-3) top 5 words from each cluster and there frequency within the cluster
+1) Top 500 words that have occurred frequently in all the reviews
+2) Clustered the reviews into 10 different clusters
+3) Top 5 words from each cluster and their frequency within the cluster
